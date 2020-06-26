@@ -8,6 +8,7 @@
 #include "mruby/class.h"
 #include "mruby/data.h"
 #include "mruby/string.h"
+#include "mruby/error.h"
 #include "error.h"
 #include <sys/types.h>
 #if defined(_WIN32) || defined(_WIN64)
